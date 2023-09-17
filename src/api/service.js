@@ -1,4 +1,4 @@
-export const API= "http://localhost:2000" //"https://bokoo.eu-4.evennode.com"
+export const API= "https://bokoo.eu-4.evennode.com" //"http://localhost:2000" 
 
 
 export async function Send(link, data, stringify=true, tok=""){
